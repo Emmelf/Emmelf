@@ -1,14 +1,10 @@
-## Emmelf 
-
-<div align="left">
-  <p>
-    <img src="https://count.getloli.com/@:Emmelf?name=%3AEmmelf&theme=booru-vp&padding=3&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
-  </p>
+<div align="center">
+    <p>
+        <img src="https://count.getloli.com/@jyyhuang?name=jyyhuang&theme=booru-vp&padding=4&offset=0&align=center&scale=0.8&pixelated=1&darkmode=auto" alt="jyyhuang">
+    </p>
 </div>
 
-##
-
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
@@ -20,4 +16,17 @@
   <img src="https://skillicons.dev/icons?i=symfony" height="40" alt="symfony logo"  />
 </div>
 
-## 
+###
+
+<div align="center">
+    <img height="100" src="./assets/complete-7.png">
+    <img height="100" src="./assets/n4okmhjk4xce1.jpeg">
+    <img height="100" src="./assets/3f685e487692be31c7901d937cb2c607-1200x675.jpg">
+    <img height="100" src="./assets/1733416765-7976-card.png">
+    <img height="100" src="./assets/Rdeze.png">
+    <img height="100" src="./assets/1873f5e908c9cb6974b2a18d31fe2e26.jpg">
+    <img height="100" src="./assets/11c0d28ccf2dc21e7f6d06aeb10714b0.jpg">
+    <img height="100" src="./assets/thumb-1920-165090.jpg">
+    <img height="100" src="./assets/resize.png">
+</div>
+
