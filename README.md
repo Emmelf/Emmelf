@@ -32,5 +32,6 @@
     <img height="100" src="./assets/cory-averill-cory-averill-closeup1.jpg">
     <img height="100" src="./assets/e4d8c2a8cdb0875a555cf2655acea19c.jpg">
     <img height="100" src="./assets/Kallen.png">
+    <img height="100" src="./assets/SwD0omvk_400x400.jpg">
 </div>
 
