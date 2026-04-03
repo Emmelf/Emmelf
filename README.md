@@ -1,4 +1,12 @@
-## Hi there 👋
+## Emmelf 
+
+<div align="left">
+  <p>
+    <img src="https://count.getloli.com/@:Emmelf?name=%3AEmmelf&theme=booru-vp&padding=3&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
+  </p>
+</div>
+
+##
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
@@ -11,3 +19,5 @@
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img src="https://skillicons.dev/icons?i=symfony" height="40" alt="symfony logo"  />
 </div>
+
+## 
