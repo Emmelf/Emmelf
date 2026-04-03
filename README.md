@@ -1,22 +1,21 @@
 <div align="center">
     <p>
-        <img src="https://count.getloli.com/@jyyhuang?name=jyyhuang&theme=booru-vp&padding=4&offset=0&align=center&scale=0.8&pixelated=1&darkmode=auto" alt="jyyhuang">
-    </p>
+        <img src="https://count.getloli.com/@:emmelf?name=%3:emmelf&theme=booru-vp&padding=3&offset=0&align=center&scale=1.5&pixelated=1&darkmode=auto"/>
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img src="https://skillicons.dev/icons?i=symfony" height="40" alt="symfony logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="80" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="80" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="80" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="80" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="80" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="80" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="80" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="80" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=symfony" height="80" alt="symfony logo"  />
 </div>
 
-###
+#
 
 <div align="center">
     <img height="100" src="./assets/complete-7.png">
@@ -28,5 +27,10 @@
     <img height="100" src="./assets/11c0d28ccf2dc21e7f6d06aeb10714b0.jpg">
     <img height="100" src="./assets/thumb-1920-165090.jpg">
     <img height="100" src="./assets/resize.png">
+    <img height="100" src="./assets/takopi_22832.png">
+    <img height="100" src="./assets/7faa6fc343eaf7245a69f674fb389af5.jpg">
+    <img height="100" src="./assets/cory-averill-cory-averill-closeup1.jpg">
+    <img height="100" src="./assets/e4d8c2a8cdb0875a555cf2655acea19c.jpg">
+    <img height="100" src="./assets/Kallen.png">
 </div>
 
